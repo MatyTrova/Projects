@@ -1,0 +1,300 @@
+id|name|capitalCity|longitude|latitude|region.value|incomeLevel.value
+ABW|Aruba|Oranjestad|-70.0167|12.5167|Latin America & Caribbean |High income
+AFE|Africa Eastern and Southern||||Aggregates|Aggregates
+AFG|Afghanistan|Kabul|69.1761|34.5228|South Asia|Low income
+AFR|Africa||||Aggregates|Aggregates
+AFW|Africa Western and Central||||Aggregates|Aggregates
+AGO|Angola|Luanda|13.242|-8.81155|Sub-Saharan Africa |Lower middle income
+ALB|Albania|Tirane|19.8172|41.3317|Europe & Central Asia|Upper middle income
+AND|Andorra|Andorra la Vella|1.5218|42.5075|Europe & Central Asia|High income
+ARB|Arab World||||Aggregates|Aggregates
+ARE|United Arab Emirates|Abu Dhabi|54.3705|24.4764|Middle East & North Africa|High income
+ARG|Argentina|Buenos Aires|-58.4173|-34.6118|Latin America & Caribbean |Upper middle income
+ARM|Armenia|Yerevan|44.509|40.1596|Europe & Central Asia|Upper middle income
+ASM|American Samoa|Pago Pago|-170.691|-14.2846|East Asia & Pacific|Upper middle income
+ATG|Antigua and Barbuda|Saint John's|-61.8456|17.1175|Latin America & Caribbean |High income
+AUS|Australia|Canberra|149.129|-35.282|East Asia & Pacific|High income
+AUT|Austria|Vienna|16.3798|48.2201|Europe & Central Asia|High income
+AZE|Azerbaijan|Baku|49.8932|40.3834|Europe & Central Asia|Upper middle income
+BDI|Burundi|Bujumbura|29.3639|-3.3784|Sub-Saharan Africa |Low income
+BEA|East Asia & Pacific (IBRD-only countries)||||Aggregates|Aggregates
+BEC|Europe & Central Asia (IBRD-only countries)||||Aggregates|Aggregates
+BEL|Belgium|Brussels|4.36761|50.8371|Europe & Central Asia|High income
+BEN|Benin|Porto-Novo|2.6323|6.4779|Sub-Saharan Africa |Lower middle income
+BFA|Burkina Faso|Ouagadougou|-1.53395|12.3605|Sub-Saharan Africa |Low income
+BGD|Bangladesh|Dhaka|90.4113|23.7055|South Asia|Lower middle income
+BGR|Bulgaria|Sofia|23.3238|42.7105|Europe & Central Asia|Upper middle income
+BHI|IBRD countries classified as high income||||Aggregates|Aggregates
+BHR|Bahrain|Manama|50.5354|26.1921|Middle East & North Africa|High income
+BHS|Bahamas, The|Nassau|-77.339|25.0661|Latin America & Caribbean |High income
+BIH|Bosnia and Herzegovina|Sarajevo|18.4214|43.8607|Europe & Central Asia|Upper middle income
+BLA|Latin America & the Caribbean (IBRD-only countries)||||Aggregates|Aggregates
+BLR|Belarus|Minsk|27.5766|53.9678|Europe & Central Asia|Upper middle income
+BLZ|Belize|Belmopan|-88.7713|17.2534|Latin America & Caribbean |Upper middle income
+BMN|Middle East & North Africa (IBRD-only countries)||||Aggregates|Aggregates
+BMU|Bermuda|Hamilton|-64.706|32.3293|North America|High income
+BOL|Bolivia|La Paz|-66.1936|-13.9908|Latin America & Caribbean |Lower middle income
+BRA|Brazil|Brasilia|-47.9292|-15.7801|Latin America & Caribbean |Upper middle income
+BRB|Barbados|Bridgetown|-59.6105|13.0935|Latin America & Caribbean |High income
+BRN|Brunei Darussalam|Bandar Seri Begawan|114.946|4.94199|East Asia & Pacific|High income
+BSS|Sub-Saharan Africa (IBRD-only countries)||||Aggregates|Aggregates
+BTN|Bhutan|Thimphu|89.6177|27.5768|South Asia|Lower middle income
+BWA|Botswana|Gaborone|25.9201|-24.6544|Sub-Saharan Africa |Upper middle income
+CAA|Sub-Saharan Africa (IFC classification)||||Aggregates|Aggregates
+CAF|Central African Republic|Bangui|21.6407|5.63056|Sub-Saharan Africa |Low income
+CAN|Canada|Ottawa|-75.6919|45.4215|North America|High income
+CEA|East Asia and the Pacific (IFC classification)||||Aggregates|Aggregates
+CEB|Central Europe and the Baltics||||Aggregates|Aggregates
+CEU|Europe and Central Asia (IFC classification)||||Aggregates|Aggregates
+CHE|Switzerland|Bern|7.44821|46.948|Europe & Central Asia|High income
+CHI|Channel Islands||||Europe & Central Asia|High income
+CHL|Chile|Santiago|-70.6475|-33.475|Latin America & Caribbean |High income
+CHN|China|Beijing|116.286|40.0495|East Asia & Pacific|Upper middle income
+CIV|Cote d'Ivoire|Yamoussoukro|-4.0305|5.332|Sub-Saharan Africa |Lower middle income
+CLA|Latin America and the Caribbean (IFC classification)||||Aggregates|Aggregates
+CME|Middle East and North Africa (IFC classification)||||Aggregates|Aggregates
+CMR|Cameroon|Yaounde|11.5174|3.8721|Sub-Saharan Africa |Lower middle income
+COD|Congo, Dem. Rep.|Kinshasa|15.3222|-4.325|Sub-Saharan Africa |Low income
+COG|Congo, Rep.|Brazzaville|15.2662|-4.2767|Sub-Saharan Africa |Lower middle income
+COL|Colombia|Bogota|-74.082|4.60987|Latin America & Caribbean |Upper middle income
+COM|Comoros|Moroni|43.2418|-11.6986|Sub-Saharan Africa |Lower middle income
+CPV|Cabo Verde|Praia|-23.5087|14.9218|Sub-Saharan Africa |Lower middle income
+CRI|Costa Rica|San Jose|-84.0089|9.63701|Latin America & Caribbean |Upper middle income
+CSA|South Asia (IFC classification)||||Aggregates|Aggregates
+CSS|Caribbean small states||||Aggregates|Aggregates
+CUB|Cuba|Havana|-82.3667|23.1333|Latin America & Caribbean |Upper middle income
+CUW|Curacao|Willemstad|||Latin America & Caribbean |High income
+CYM|Cayman Islands|George Town|-81.3857|19.3022|Latin America & Caribbean |High income
+CYP|Cyprus|Nicosia|33.3736|35.1676|Europe & Central Asia|High income
+CZE|Czechia|Prague|14.4205|50.0878|Europe & Central Asia|High income
+DEA|East Asia & Pacific (IDA-eligible countries)||||Aggregates|Aggregates
+DEC|Europe & Central Asia (IDA-eligible countries)||||Aggregates|Aggregates
+DEU|Germany|Berlin|13.4115|52.5235|Europe & Central Asia|High income
+DFS|IDA countries classified as Fragile Situations||||Aggregates|Aggregates
+DJI|Djibouti|Djibouti|43.1425|11.5806|Middle East & North Africa|Lower middle income
+DLA|Latin America & the Caribbean (IDA-eligible countries)||||Aggregates|Aggregates
+DMA|Dominica|Roseau|-61.39|15.2976|Latin America & Caribbean |Upper middle income
+DMN|Middle East & North Africa (IDA-eligible countries)||||Aggregates|Aggregates
+DNF|IDA countries not classified as Fragile Situations||||Aggregates|Aggregates
+DNK|Denmark|Copenhagen|12.5681|55.6763|Europe & Central Asia|High income
+DNS|IDA countries in Sub-Saharan Africa not classified as fragile situations ||||Aggregates|Aggregates
+DOM|Dominican Republic|Santo Domingo|-69.8908|18.479|Latin America & Caribbean |Upper middle income
+DSA|South Asia (IDA-eligible countries)||||Aggregates|Aggregates
+DSF|IDA countries in Sub-Saharan Africa classified as fragile situations ||||Aggregates|Aggregates
+DSS|Sub-Saharan Africa (IDA-eligible countries)||||Aggregates|Aggregates
+DZA|Algeria|Algiers|3.05097|36.7397|Middle East & North Africa|Lower middle income
+EAP|East Asia & Pacific (excluding high income)||||Aggregates|Aggregates
+EAR|Early-demographic dividend||||Aggregates|Aggregates
+EAS|East Asia & Pacific||||Aggregates|Aggregates
+ECA|Europe & Central Asia (excluding high income)||||Aggregates|Aggregates
+ECS|Europe & Central Asia||||Aggregates|Aggregates
+ECU|Ecuador|Quito|-78.5243|-0.229498|Latin America & Caribbean |Upper middle income
+EGY|Egypt, Arab Rep.|Cairo|31.2461|30.0982|Middle East & North Africa|Lower middle income
+EMU|Euro area||||Aggregates|Aggregates
+ERI|Eritrea|Asmara|38.9183|15.3315|Sub-Saharan Africa |Low income
+ESP|Spain|Madrid|-3.70327|40.4167|Europe & Central Asia|High income
+EST|Estonia|Tallinn|24.7586|59.4392|Europe & Central Asia|High income
+ETH|Ethiopia|Addis Ababa|38.7468|9.02274|Sub-Saharan Africa |Low income
+EUU|European Union||||Aggregates|Aggregates
+FCS|Fragile and conflict affected situations||||Aggregates|Aggregates
+FIN|Finland|Helsinki|24.9525|60.1608|Europe & Central Asia|High income
+FJI|Fiji|Suva|178.399|-18.1149|East Asia & Pacific|Upper middle income
+FRA|France|Paris|2.35097|48.8566|Europe & Central Asia|High income
+FRO|Faroe Islands|Torshavn|-6.91181|61.8926|Europe & Central Asia|High income
+FSM|Micronesia, Fed. Sts.|Palikir|158.185|6.91771|East Asia & Pacific|Lower middle income
+FXS|IDA countries classified as fragile situations, excluding Sub-Saharan Africa||||Aggregates|Aggregates
+GAB|Gabon|Libreville|9.45162|0.38832|Sub-Saharan Africa |Upper middle income
+GBR|United Kingdom|London|-0.126236|51.5002|Europe & Central Asia|High income
+GEO|Georgia|Tbilisi|44.793|41.71|Europe & Central Asia|Upper middle income
+GHA|Ghana|Accra|-0.20795|5.57045|Sub-Saharan Africa |Lower middle income
+GIB|Gibraltar||||Europe & Central Asia|High income
+GIN|Guinea|Conakry|-13.7|9.51667|Sub-Saharan Africa |Low income
+GMB|Gambia, The|Banjul|-16.5885|13.4495|Sub-Saharan Africa |Low income
+GNB|Guinea-Bissau|Bissau|-15.1804|11.8037|Sub-Saharan Africa |Low income
+GNQ|Equatorial Guinea|Malabo|8.7741|3.7523|Sub-Saharan Africa |Upper middle income
+GRC|Greece|Athens|23.7166|37.9792|Europe & Central Asia|High income
+GRD|Grenada|Saint George's|-61.7449|12.0653|Latin America & Caribbean |Upper middle income
+GRL|Greenland|Nuuk|-51.7214|64.1836|Europe & Central Asia|High income
+GTM|Guatemala|Guatemala City|-90.5328|14.6248|Latin America & Caribbean |Upper middle income
+GUM|Guam|Agana|144.794|13.4443|East Asia & Pacific|High income
+GUY|Guyana|Georgetown|-58.1548|6.80461|Latin America & Caribbean |Upper middle income
+HIC|High income||||Aggregates|Aggregates
+HKG|Hong Kong SAR, China||114.109|22.3964|East Asia & Pacific|High income
+HND|Honduras|Tegucigalpa|-87.4667|15.1333|Latin America & Caribbean |Lower middle income
+HPC|Heavily indebted poor countries (HIPC)||||Aggregates|Aggregates
+HRV|Croatia|Zagreb|15.9614|45.8069|Europe & Central Asia|High income
+HTI|Haiti|Port-au-Prince|-72.3288|18.5392|Latin America & Caribbean |Lower middle income
+HUN|Hungary|Budapest|19.0408|47.4984|Europe & Central Asia|High income
+IBB|IBRD, including blend||||Aggregates|Aggregates
+IBD|IBRD only||||Aggregates|Aggregates
+IBT|IDA & IBRD total||||Aggregates|Aggregates
+IDA|IDA total||||Aggregates|Aggregates
+IDB|IDA blend||||Aggregates|Aggregates
+IDN|Indonesia|Jakarta|106.83|-6.19752|East Asia & Pacific|Lower middle income
+IDX|IDA only||||Aggregates|Aggregates
+IMN|Isle of Man|Douglas|-4.47928|54.1509|Europe & Central Asia|High income
+IND|India|New Delhi|77.225|28.6353|South Asia|Lower middle income
+INX|Not classified||||Aggregates|Aggregates
+IRL|Ireland|Dublin|-6.26749|53.3441|Europe & Central Asia|High income
+IRN|Iran, Islamic Rep.|Tehran|51.4447|35.6878|Middle East & North Africa|Lower middle income
+IRQ|Iraq|Baghdad|44.394|33.3302|Middle East & North Africa|Upper middle income
+ISL|Iceland|Reykjavik|-21.8952|64.1353|Europe & Central Asia|High income
+ISR|Israel||35.2035|31.7717|Middle East & North Africa|High income
+ITA|Italy|Rome|12.4823|41.8955|Europe & Central Asia|High income
+JAM|Jamaica|Kingston|-76.792|17.9927|Latin America & Caribbean |Upper middle income
+JOR|Jordan|Amman|35.9263|31.9497|Middle East & North Africa|Upper middle income
+JPN|Japan|Tokyo|139.77|35.67|East Asia & Pacific|High income
+KAZ|Kazakhstan|Astana|71.4382|51.1879|Europe & Central Asia|Upper middle income
+KEN|Kenya|Nairobi|36.8126|-1.27975|Sub-Saharan Africa |Lower middle income
+KGZ|Kyrgyz Republic|Bishkek|74.6057|42.8851|Europe & Central Asia|Lower middle income
+KHM|Cambodia|Phnom Penh|104.874|11.5556|East Asia & Pacific|Lower middle income
+KIR|Kiribati|Tarawa|172.979|1.32905|East Asia & Pacific|Lower middle income
+KNA|St. Kitts and Nevis|Basseterre|-62.7309|17.3|Latin America & Caribbean |High income
+KOR|Korea, Rep.|Seoul|126.957|37.5323|East Asia & Pacific|High income
+KWT|Kuwait|Kuwait City|47.9824|29.3721|Middle East & North Africa|High income
+LAC|Latin America & Caribbean (excluding high income)||||Aggregates|Aggregates
+LAO|Lao PDR|Vientiane|102.177|18.5826|East Asia & Pacific|Lower middle income
+LBN|Lebanon|Beirut|35.5134|33.8872|Middle East & North Africa|Lower middle income
+LBR|Liberia|Monrovia|-10.7957|6.30039|Sub-Saharan Africa |Low income
+LBY|Libya|Tripoli|13.1072|32.8578|Middle East & North Africa|Upper middle income
+LCA|St. Lucia|Castries|-60.9832|14|Latin America & Caribbean |Upper middle income
+LCN|Latin America & Caribbean ||||Aggregates|Aggregates
+LDC|Least developed countries: UN classification||||Aggregates|Aggregates
+LIC|Low income||||Aggregates|Aggregates
+LIE|Liechtenstein|Vaduz|9.52148|47.1411|Europe & Central Asia|High income
+LKA|Sri Lanka|Colombo|79.8528|6.92148|South Asia|Lower middle income
+LMC|Lower middle income||||Aggregates|Aggregates
+LMY|Low & middle income||||Aggregates|Aggregates
+LSO|Lesotho|Maseru|27.7167|-29.5208|Sub-Saharan Africa |Lower middle income
+LTE|Late-demographic dividend||||Aggregates|Aggregates
+LTU|Lithuania|Vilnius|25.2799|54.6896|Europe & Central Asia|High income
+LUX|Luxembourg|Luxembourg|6.1296|49.61|Europe & Central Asia|High income
+LVA|Latvia|Riga|24.1048|56.9465|Europe & Central Asia|High income
+MAC|Macao SAR, China||113.55|22.1667|East Asia & Pacific|High income
+MAF|St. Martin (French part)|Marigot|||Latin America & Caribbean |High income
+MAR|Morocco|Rabat|-6.8704|33.9905|Middle East & North Africa|Lower middle income
+MCO|Monaco|Monaco|7.41891|43.7325|Europe & Central Asia|High income
+MDA|Moldova|Chisinau|28.8497|47.0167|Europe & Central Asia|Upper middle income
+MDE|Middle East (developing only)||||Aggregates|Aggregates
+MDG|Madagascar|Antananarivo|45.7167|-20.4667|Sub-Saharan Africa |Low income
+MDV|Maldives|Male|73.5109|4.1742|South Asia|Upper middle income
+MEA|Middle East & North Africa||||Aggregates|Aggregates
+MEX|Mexico|Mexico City|-99.1276|19.427|Latin America & Caribbean |Upper middle income
+MHL|Marshall Islands|Majuro|171.135|7.11046|East Asia & Pacific|Upper middle income
+MIC|Middle income||||Aggregates|Aggregates
+MKD|North Macedonia|Skopje|21.4361|42.0024|Europe & Central Asia|Upper middle income
+MLI|Mali|Bamako|-7.50034|13.5667|Sub-Saharan Africa |Low income
+MLT|Malta|Valletta|14.5189|35.9042|Middle East & North Africa|High income
+MMR|Myanmar|Naypyidaw|95.9562|21.914|East Asia & Pacific|Lower middle income
+MNA|Middle East & North Africa (excluding high income)||||Aggregates|Aggregates
+MNE|Montenegro|Podgorica|19.2595|42.4602|Europe & Central Asia|Upper middle income
+MNG|Mongolia|Ulaanbaatar|106.937|47.9129|East Asia & Pacific|Lower middle income
+MNP|Northern Mariana Islands|Saipan|145.765|15.1935|East Asia & Pacific|High income
+MOZ|Mozambique|Maputo|32.5713|-25.9664|Sub-Saharan Africa |Low income
+MRT|Mauritania|Nouakchott|-15.9824|18.2367|Sub-Saharan Africa |Lower middle income
+MUS|Mauritius|Port Louis|57.4977|-20.1605|Sub-Saharan Africa |Upper middle income
+MWI|Malawi|Lilongwe|33.7703|-13.9899|Sub-Saharan Africa |Low income
+MYS|Malaysia|Kuala Lumpur|101.684|3.12433|East Asia & Pacific|Upper middle income
+NAC|North America||||Aggregates|Aggregates
+NAF|North Africa||||Aggregates|Aggregates
+NAM|Namibia|Windhoek|17.0931|-22.5648|Sub-Saharan Africa |Upper middle income
+NCL|New Caledonia|Noum'ea|166.464|-22.2677|East Asia & Pacific|High income
+NER|Niger|Niamey|2.1073|13.514|Sub-Saharan Africa |Low income
+NGA|Nigeria|Abuja|7.48906|9.05804|Sub-Saharan Africa |Lower middle income
+NIC|Nicaragua|Managua|-86.2734|12.1475|Latin America & Caribbean |Lower middle income
+NLD|Netherlands|Amsterdam|4.89095|52.3738|Europe & Central Asia|High income
+NOR|Norway|Oslo|10.7387|59.9138|Europe & Central Asia|High income
+NPL|Nepal|Kathmandu|85.3157|27.6939|South Asia|Lower middle income
+NRS|Non-resource rich Sub-Saharan Africa countries||||Aggregates|Aggregates
+NRU|Nauru|Yaren District|166.920867|-0.5477|East Asia & Pacific|High income
+NXS|IDA countries not classified as fragile situations, excluding Sub-Saharan Africa||||Aggregates|Aggregates
+NZL|New Zealand|Wellington|174.776|-41.2865|East Asia & Pacific|High income
+OED|OECD members||||Aggregates|Aggregates
+OMN|Oman|Muscat|58.5874|23.6105|Middle East & North Africa|High income
+OSS|Other small states||||Aggregates|Aggregates
+PAK|Pakistan|Islamabad|72.8|30.5167|South Asia|Lower middle income
+PAN|Panama|Panama City|-79.5188|8.99427|Latin America & Caribbean |High income
+PER|Peru|Lima|-77.0465|-12.0931|Latin America & Caribbean |Upper middle income
+PHL|Philippines|Manila|121.035|14.5515|East Asia & Pacific|Lower middle income
+PLW|Palau|Koror|134.479|7.34194|East Asia & Pacific|Upper middle income
+PNG|Papua New Guinea|Port Moresby|147.194|-9.47357|East Asia & Pacific|Lower middle income
+POL|Poland|Warsaw|21.02|52.26|Europe & Central Asia|High income
+PRE|Pre-demographic dividend||||Aggregates|Aggregates
+PRI|Puerto Rico|San Juan|-66|18.23|Latin America & Caribbean |High income
+PRK|Korea, Dem. People's Rep.|Pyongyang|125.754|39.0319|East Asia & Pacific|Low income
+PRT|Portugal|Lisbon|-9.13552|38.7072|Europe & Central Asia|High income
+PRY|Paraguay|Asuncion|-57.6362|-25.3005|Latin America & Caribbean |Upper middle income
+PSE|West Bank and Gaza||||Middle East & North Africa|Lower middle income
+PSS|Pacific island small states||||Aggregates|Aggregates
+PST|Post-demographic dividend||||Aggregates|Aggregates
+PYF|French Polynesia|Papeete|-149.57|-17.535|East Asia & Pacific|High income
+QAT|Qatar|Doha|51.5082|25.2948|Middle East & North Africa|High income
+ROU|Romania|Bucharest|26.0979|44.4479|Europe & Central Asia|High income
+RRS|Resource rich Sub-Saharan Africa countries||||Aggregates|Aggregates
+RUS|Russian Federation|Moscow|37.6176|55.7558|Europe & Central Asia|Upper middle income
+RWA|Rwanda|Kigali|30.0587|-1.95325|Sub-Saharan Africa |Low income
+SAS|South Asia||||Aggregates|Aggregates
+SAU|Saudi Arabia|Riyadh|46.6977|24.6748|Middle East & North Africa|High income
+SDN|Sudan|Khartoum|32.5363|15.5932|Sub-Saharan Africa |Low income
+SEN|Senegal|Dakar|-17.4734|14.7247|Sub-Saharan Africa |Lower middle income
+SGP|Singapore|Singapore|103.85|1.28941|East Asia & Pacific|High income
+SLB|Solomon Islands|Honiara|159.949|-9.42676|East Asia & Pacific|Lower middle income
+SLE|Sierra Leone|Freetown|-13.2134|8.4821|Sub-Saharan Africa |Low income
+SLV|El Salvador|San Salvador|-89.2073|13.7034|Latin America & Caribbean |Lower middle income
+SMR|San Marino|San Marino|12.4486|43.9322|Europe & Central Asia|High income
+SOM|Somalia|Mogadishu|45.3254|2.07515|Sub-Saharan Africa |Low income
+SRB|Serbia|Belgrade|20.4656|44.8024|Europe & Central Asia|Upper middle income
+SSA|Sub-Saharan Africa (excluding high income)||||Aggregates|Aggregates
+SSD|South Sudan|Juba|31.6|4.85|Sub-Saharan Africa |Low income
+SSF|Sub-Saharan Africa ||||Aggregates|Aggregates
+SST|Small states||||Aggregates|Aggregates
+STP|Sao Tome and Principe|Sao Tome|6.6071|0.20618|Sub-Saharan Africa |Lower middle income
+SUR|Suriname|Paramaribo|-55.1679|5.8232|Latin America & Caribbean |Upper middle income
+SVK|Slovak Republic|Bratislava|17.1073|48.1484|Europe & Central Asia|High income
+SVN|Slovenia|Ljubljana|14.5044|46.0546|Europe & Central Asia|High income
+SWE|Sweden|Stockholm|18.0645|59.3327|Europe & Central Asia|High income
+SWZ|Eswatini|Mbabane|31.4659|-26.5225|Sub-Saharan Africa |Lower middle income
+SXM|Sint Maarten (Dutch part)|Philipsburg|||Latin America & Caribbean |High income
+SXZ|Sub-Saharan Africa excluding South Africa||||Aggregates|Aggregates
+SYC|Seychelles|Victoria|55.4466|-4.6309|Sub-Saharan Africa |High income
+SYR|Syrian Arab Republic|Damascus|36.3119|33.5146|Middle East & North Africa|Low income
+TCA|Turks and Caicos Islands|Grand Turk|-71.141389|21.4602778|Latin America & Caribbean |High income
+TCD|Chad|N'Djamena|15.0445|12.1048|Sub-Saharan Africa |Low income
+TEA|East Asia & Pacific (IDA & IBRD countries)||||Aggregates|Aggregates
+TEC|Europe & Central Asia (IDA & IBRD countries)||||Aggregates|Aggregates
+TGO|Togo|Lome|1.2255|6.1228|Sub-Saharan Africa |Low income
+THA|Thailand|Bangkok|100.521|13.7308|East Asia & Pacific|Upper middle income
+TJK|Tajikistan|Dushanbe|68.7864|38.5878|Europe & Central Asia|Lower middle income
+TKM|Turkmenistan|Ashgabat|58.3794|37.9509|Europe & Central Asia|Upper middle income
+TLA|Latin America & the Caribbean (IDA & IBRD countries)||||Aggregates|Aggregates
+TLS|Timor-Leste|Dili|125.567|-8.56667|East Asia & Pacific|Lower middle income
+TMN|Middle East & North Africa (IDA & IBRD countries)||||Aggregates|Aggregates
+TON|Tonga|Nuku'alofa|-175.216|-21.136|East Asia & Pacific|Upper middle income
+TSA|South Asia (IDA & IBRD)||||Aggregates|Aggregates
+TSS|Sub-Saharan Africa (IDA & IBRD countries)||||Aggregates|Aggregates
+TTO|Trinidad and Tobago|Port-of-Spain|-61.4789|10.6596|Latin America & Caribbean |High income
+TUN|Tunisia|Tunis|10.21|36.7899|Middle East & North Africa|Lower middle income
+TUR|Turkiye|Ankara|32.3606|39.7153|Europe & Central Asia|Upper middle income
+TUV|Tuvalu|Funafuti|179.089567|-8.6314877|East Asia & Pacific|Upper middle income
+TWN|Taiwan, China||||East Asia & Pacific|High income
+TZA|Tanzania|Dodoma|35.7382|-6.17486|Sub-Saharan Africa |Lower middle income
+UGA|Uganda|Kampala|32.5729|0.314269|Sub-Saharan Africa |Low income
+UKR|Ukraine|Kiev|30.5038|50.4536|Europe & Central Asia|Lower middle income
+UMC|Upper middle income||||Aggregates|Aggregates
+URY|Uruguay|Montevideo|-56.0675|-34.8941|Latin America & Caribbean |High income
+USA|United States|Washington D.C.|-77.032|38.8895|North America|High income
+UZB|Uzbekistan|Tashkent|69.269|41.3052|Europe & Central Asia|Lower middle income
+VCT|St. Vincent and the Grenadines|Kingstown|-61.2653|13.2035|Latin America & Caribbean |Upper middle income
+VEN|Venezuela, RB|Caracas|-69.8371|9.08165|Latin America & Caribbean |Not classified
+VGB|British Virgin Islands|Road Town|-64.623056|18.431389|Latin America & Caribbean |High income
+VIR|Virgin Islands (U.S.)|Charlotte Amalie|-64.8963|18.3358|Latin America & Caribbean |High income
+VNM|Vietnam|Hanoi|105.825|21.0069|East Asia & Pacific|Lower middle income
+VUT|Vanuatu|Port-Vila|168.321|-17.7404|East Asia & Pacific|Lower middle income
+WLD|World||||Aggregates|Aggregates
+WSM|Samoa|Apia|-171.752|-13.8314|East Asia & Pacific|Lower middle income
+XKX|Kosovo|Pristina|20.926|42.565|Europe & Central Asia|Upper middle income
+XZN|Sub-Saharan Africa excluding South Africa and Nigeria||||Aggregates|Aggregates
+YEM|Yemen, Rep.|Sana'a|44.2075|15.352|Middle East & North Africa|Low income
+ZAF|South Africa|Pretoria|28.1871|-25.746|Sub-Saharan Africa |Upper middle income
+ZMB|Zambia|Lusaka|28.2937|-15.3982|Sub-Saharan Africa |Low income
+ZWE|Zimbabwe|Harare|31.0672|-17.8312|Sub-Saharan Africa |Lower middle income

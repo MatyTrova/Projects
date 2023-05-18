@@ -1,0 +1,1609 @@
+country|Year|population
+China|2015|1,393,715,449
+India|2015|1,322,866,505
+United States of America|2015|324,607,777
+Indonesia|2015|259,091,970
+Pakistan|2015|210,969,298
+Brazil|2015|205,188,205
+Nigeria|2015|183,995,785
+Bangladesh|2015|157,830,000
+Russian Federation|2015|144,668,390
+Japan|2015|127,250,933
+Mexico|2015|120,149,897
+Philippines|2015|103,031,365
+Ethiopia|2015|102,471,896
+Egypt|2015|97,723,799
+Viet Nam|2015|92,191,398
+Germany|2015|82,073,226
+Iran|2015|81,790,841
+Turkey|2015|79,646,179
+D.R. Congo|2015|78,656,904
+Thailand|2015|70,294,397
+United Kingdom|2015|65,224,364
+France|2015|63,809,769
+Italy|2015|60,232,906
+South Africa|2015|55,876,504
+Tanzania|2015|52,542,824
+Myanmar|2015|51,483,949
+Republic of Korea|2015|50,994,401
+Colombia|2015|47,119,728
+Kenya|2015|46,851,489
+Spain|2015|46,431,342
+Ukraine|2015|44,982,564
+Argentina|2015|43,257,066
+Algeria|2015|39,543,155
+Poland|2015|38,553,146
+Sudan|2015|38,171,178
+Iraq|2015|37,757,813
+Uganda|2015|37,477,356
+Canada|2015|35,732,126
+Morocco|2015|34,680,458
+Afghanistan|2015|33,753,499
+Saudi Arabia|2015|32,749,848
+Malaysia|2015|31,068,833
+Uzbekistan|2015|30,949,418
+Peru|2015|30,711,863
+Venezuela|2015|30,529,716
+Ghana|2015|28,870,939
+Yemen|2015|28,516,545
+Angola|2015|28,127,721
+Nepal|2015|27,610,326
+Mozambique|2015|26,843,246
+Dem. People's Republic of Korea|2015|25,258,015
+Madagascar|2015|24,850,913
+Australia|2015|23,820,237
+Côte d'Ivoire|2015|23,596,741
+Taiwan|2015|23,512,136
+Cameroon|2015|23,012,647
+Sri Lanka|2015|21,336,698
+Niger|2015|20,128,124
+Romania|2015|19,906,079
+Syrian Arab Republic|2015|19,205,178
+Burkina Faso|2015|18,718,020
+Mali|2015|18,112,907
+Chile|2015|17,870,124
+Kazakhstan|2015|17,835,909
+Netherlands|2015|17,041,108
+Malawi|2015|16,938,942
+Zambia|2015|16,248,230
+Ecuador|2015|16,195,902
+Guatemala|2015|16,001,107
+Cambodia|2015|15,417,523
+Senegal|2015|14,356,181
+Zimbabwe|2015|14,154,937
+Chad|2015|14,140,274
+Somalia|2015|13,763,907
+Rwanda|2015|11,642,959
+Guinea|2015|11,625,999
+Tunisia|2015|11,557,779
+Cuba|2015|11,339,894
+Belgium|2015|11,248,304
+South Sudan|2015|11,194,300
+Bolivia|2015|11,090,086
+Benin|2015|10,932,784
+Greece|2015|10,806,641
+Burundi|2015|10,727,149
+Haiti|2015|10,563,757
+Czech Republic|2015|10,523,798
+Dominican Republic|2015|10,405,832
+Portugal|2015|10,365,436
+Azerbaijan|2015|9,863,480
+Sweden|2015|9,849,349
+Hungary|2015|9,844,246
+Belarus|2015|9,700,609
+Jordan|2015|9,494,247
+Honduras|2015|9,294,506
+United Arab Emirates|2015|8,916,899
+Papua New Guinea|2015|8,682,174
+Austria|2015|8,642,421
+Tajikistan|2015|8,524,063
+Switzerland|2015|8,281,732
+Israel|2015|8,007,778
+Serbia|2015|7,519,496
+Togo|2015|7,473,229
+China, Hong Kong SAR|2015|7,399,839
+Sierra Leone|2015|7,314,773
+Bulgaria|2015|7,309,254
+Laos|2015|6,787,419
+Lebanon|2015|6,398,940
+Nicaragua|2015|6,298,598
+El Salvador|2015|6,231,066
+Libya|2015|6,192,235
+Paraguay|2015|6,177,950
+Kyrgyzstan|2015|5,914,981
+Turkmenistan|2015|5,766,432
+Denmark|2015|5,677,796
+Singapore|2015|5,650,018
+Finland|2015|5,479,461
+Slovakia|2015|5,424,445
+Norway|2015|5,190,357
+Congo|2015|5,064,386
+Costa Rica|2015|4,895,242
+Central African Republic|2015|4,819,333
+Ireland|2015|4,665,760
+Liberia|2015|4,612,329
+New Zealand|2015|4,590,590
+State of Palestine|2015|4,484,614
+Croatia|2015|4,254,815
+Oman|2015|4,191,777
+Panama|2015|3,957,099
+Mauritania|2015|3,946,220
+Kuwait|2015|3,908,743
+Georgia|2015|3,771,132
+Bosnia and Herzegovina|2015|3,524,324
+Puerto Rico|2015|3,497,335
+Uruguay|2015|3,402,818
+Eritrea|2015|3,340,006
+Republic of Moldova|2015|3,277,388
+Mongolia|2015|2,964,749
+Lithuania|2015|2,963,765
+Albania|2015|2,882,481
+Armenia|2015|2,878,595
+Jamaica|2015|2,794,445
+Qatar|2015|2,414,573
+Botswana|2015|2,305,172
+Namibia|2015|2,282,704
+Gambia|2015|2,253,134
+Lesotho|2015|2,118,521
+TFYR Macedonia|2015|2,107,962
+Slovenia|2015|2,080,862
+Gabon|2015|2,028,517
+Latvia|2015|1,991,955
+Guinea-Bissau|2015|1,788,919
+Trinidad and Tobago|2015|1,460,177
+Bahrain|2015|1,362,142
+Equatorial Guinea|2015|1,346,973
+Estonia|2015|1,314,657
+Mauritius|2015|1,293,153
+Timor-Leste|2015|1,205,813
+Cyprus|2015|1,187,280
+Swaziland|2015|1,133,936
+Djibouti|2015|1,006,259
+Réunion|2015|922,495
+Fiji|2015|917,200
+Guyana|2015|755,031
+Bhutan|2015|743,274
+Comoros|2015|730,216
+Montenegro|2015|633,967
+China, Macao SAR|2015|615,239
+Solomon Islands|2015|612,660
+Suriname|2015|575,475
+Luxembourg|2015|569,408
+Cabo Verde|2015|552,166
+Western Sahara|2015|491,824
+Malta|2015|456,579
+Maldives|2015|435,582
+Brunei Darussalam|2015|421,437
+Guadeloupe|2015|399,089
+Bahamas|2015|392,698
+Martinique|2015|383,515
+Belize|2015|359,871
+Iceland|2015|331,060
+French Polynesia|2015|291,787
+New Caledonia|2015|283,032
+Barbados|2015|278,083
+Vanuatu|2015|276,439
+French Guiana|2015|257,026
+Mayotte|2015|249,545
+Samoa|2015|203,571
+Sao Tome and Principe|2015|201,124
+Saint Lucia|2015|175,623
+Curaçao|2015|169,572
+Guam|2015|167,978
+Grenada|2015|118,980
+Kiribati|2015|116,707
+Micronesia (Fed. States of)|2015|109,462
+Saint Vincent and the Grenadines|2015|106,482
+Tonga|2015|106,122
+Aruba|2015|104,258
+United States Virgin Islands|2015|102,804
+Seychelles|2015|99,240
+Antigua and Barbuda|2015|89,941
+Monaco|2015|36,760
+China|2016|1,401,889,681
+India|2016|1,338,636,340
+United States of America|2016|327,210,198
+Indonesia|2016|261,850,182
+Pakistan|2016|213,524,840
+Brazil|2016|206,859,578
+Nigeria|2016|188,666,931
+Bangladesh|2016|159,784,569
+Russian Federation|2016|145,109,157
+Japan|2016|126,993,858
+Mexico|2016|121,519,222
+Philippines|2016|104,875,267
+Ethiopia|2016|105,293,229
+Egypt|2016|99,784,030
+Viet Nam|2016|93,126,529
+Germany|2016|82,331,423
+Iran|2016|83,306,231
+Turkey|2016|81,019,395
+D.R. Congo|2016|81,430,977
+Thailand|2016|70,607,037
+United Kingdom|2016|65,655,203
+France|2016|63,989,319
+Italy|2016|60,118,627
+South Africa|2016|56,422,274
+Tanzania|2016|54,401,802
+Myanmar|2016|51,892,349
+Republic of Korea|2016|51,309,984
+Colombia|2016|47,625,956
+Kenya|2016|47,894,670
+Spain|2016|46,473,315
+Ukraine|2016|44,833,569
+Argentina|2016|43,668,242
+Algeria|2016|40,339,329
+Poland|2016|38,532,113
+Sudan|2016|39,377,169
+Iraq|2016|38,697,943
+Uganda|2016|38,748,299
+Canada|2016|36,113,532
+Morocco|2016|35,107,264
+Afghanistan|2016|34,636,208
+Saudi Arabia|2016|33,416,270
+Malaysia|2016|31,526,418
+Uzbekistan|2016|31,453,575
+Peru|2016|31,132,779
+Venezuela|2016|30,741,464
+Ghana|2016|29,554,303
+Yemen|2016|29,274,003
+Angola|2016|29,154,746
+Nepal|2016|27,861,186
+Mozambique|2016|27,696,493
+Dem. People's Republic of Korea|2016|25,389,611
+Madagascar|2016|25,501,941
+Australia|2016|24,195,702
+Côte d'Ivoire|2016|24,213,622
+Taiwan|2016|23,594,471
+Cameroon|2016|23,711,630
+Sri Lanka|2016|21,425,494
+Niger|2016|20,921,743
+Romania|2016|19,797,820
+Syrian Arab Republic|2016|18,964,252
+Burkina Faso|2016|19,275,498
+Mali|2016|18,700,106
+Chile|2016|18,083,880
+Kazakhstan|2016|18,078,553
+Netherlands|2016|17,124,505
+Malawi|2016|17,405,624
+Zambia|2016|16,767,761
+Ecuador|2016|16,439,585
+Guatemala|2016|16,291,004
+Cambodia|2016|15,624,584
+Senegal|2016|14,751,357
+Zimbabwe|2016|14,452,705
+Chad|2016|14,592,585
+Somalia|2016|14,292,847
+Rwanda|2016|11,930,900
+Guinea|2016|11,930,985
+Tunisia|2016|11,685,668
+Cuba|2016|11,342,012
+Belgium|2016|11,316,836
+South Sudan|2016|11,066,105
+Bolivia|2016|11,263,016
+Benin|2016|11,260,085
+Greece|2016|10,749,742
+Burundi|2016|10,903,328
+Haiti|2016|10,713,849
+Czech Republic|2016|10,527,591
+Dominican Republic|2016|10,527,592
+Portugal|2016|10,332,753
+Azerbaijan|2016|9,976,248
+Sweden|2016|9,953,317
+Hungary|2016|9,815,105
+Belarus|2016|9,708,110
+Jordan|2016|9,964,656
+Honduras|2016|9,460,798
+United Arab Emirates|2016|8,994,263
+Papua New Guinea|2016|8,899,170
+Austria|2016|8,736,487
+Tajikistan|2016|8,725,319
+Switzerland|2016|8,372,898
+Israel|2016|8,159,009
+Serbia|2016|7,493,288
+Togo|2016|7,661,354
+China, Hong Kong SAR|2016|7,435,927
+Sierra Leone|2016|7,493,913
+Bulgaria|2016|7,245,975
+Laos|2016|6,891,363
+Lebanon|2016|6,258,620
+Nicaragua|2016|6,389,235
+El Salvador|2016|6,250,510
+Libya|2016|6,282,196
+Paraguay|2016|6,266,616
+Kyrgyzstan|2016|6,018,299
+Turkmenistan|2016|5,868,562
+Denmark|2016|5,706,857
+Singapore|2016|5,711,933
+Finland|2016|5,495,219
+Slovakia|2016|5,431,204
+Norway|2016|5,236,590
+Congo|2016|5,186,824
+Costa Rica|2016|4,945,205
+Central African Republic|2016|4,904,178
+Ireland|2016|4,715,788
+Liberia|2016|4,706,098
+New Zealand|2016|4,668,081
+State of Palestine|2016|4,593,848
+Croatia|2016|4,223,751
+Oman|2016|4,398,070
+Panama|2016|4,026,337
+Mauritania|2016|4,051,891
+Kuwait|2016|4,048,085
+Georgia|2016|3,771,110
+Bosnia and Herzegovina|2016|3,480,986
+Puerto Rico|2016|3,432,741
+Uruguay|2016|3,413,766
+Eritrea|2016|3,365,288
+Republic of Moldova|2016|3,225,123
+Mongolia|2016|3,029,555
+Lithuania|2016|2,933,674
+Albania|2016|2,881,063
+Armenia|2016|2,865,835
+Jamaica|2016|2,802,696
+Qatar|2016|2,595,166
+Botswana|2016|2,352,416
+Namibia|2016|2,323,352
+Gambia|2016|2,317,206
+Lesotho|2016|2,143,872
+TFYR Macedonia|2016|2,110,196
+Slovenia|2016|2,090,020
+Gabon|2016|2,086,206
+Latvia|2016|1,973,476
+Guinea-Bissau|2016|1,834,552
+Trinidad and Tobago|2016|1,469,330
+Bahrain|2016|1,409,661
+Equatorial Guinea|2016|1,398,927
+Estonia|2016|1,315,926
+Mauritius|2016|1,293,911
+Timor-Leste|2016|1,224,562
+Cyprus|2016|1,197,882
+Swaziland|2016|1,142,524
+Djibouti|2016|1,023,262
+Réunion|2016|926,628
+Fiji|2016|918,371
+Guyana|2016|759,087
+Bhutan|2016|749,762
+Comoros|2016|746,232
+Montenegro|2016|633,264
+China, Macao SAR|2016|626,689
+Solomon Islands|2016|628,102
+Suriname|2016|581,453
+Luxembourg|2016|583,351
+Cabo Verde|2016|558,395
+Western Sahara|2016|505,456
+Malta|2016|467,705
+Maldives|2016|454,253
+Brunei Darussalam|2016|425,994
+Guadeloupe|2016|397,854
+Bahamas|2016|395,977
+Martinique|2016|380,345
+Belize|2016|367,313
+Iceland|2016|335,675
+French Polynesia|2016|293,542
+New Caledonia|2016|283,748
+Barbados|2016|278,649
+Vanuatu|2016|283,218
+French Guiana|2016|262,814
+Mayotte|2016|260,283
+Samoa|2016|205,544
+Sao Tome and Principe|2016|204,633
+Saint Lucia|2016|176,414
+Curaçao|2016|170,740
+Guam|2016|168,347
+Grenada|2016|119,966
+Kiribati|2016|118,513
+Micronesia (Fed. States of)|2016|109,926
+Saint Vincent and the Grenadines|2016|105,963
+Tonga|2016|105,708
+Aruba|2016|104,875
+United States Virgin Islands|2016|102,316
+Seychelles|2016|100,509
+Antigua and Barbuda|2016|90,565
+Monaco|2016|37,071
+China|2017|1,410,275,957
+India|2017|1,354,195,680
+United States of America|2017|329,791,231
+Indonesia|2017|264,498,853
+Pakistan|2017|216,379,655
+Brazil|2017|208,504,960
+Nigeria|2017|193,495,907
+Bangladesh|2017|161,793,964
+Russian Federation|2017|145,452,536
+Japan|2017|126,662,472
+Mexico|2017|122,839,258
+Philippines|2017|106,738,502
+Ethiopia|2017|108,197,950
+Egypt|2017|101,789,386
+Viet Nam|2017|94,033,048
+Germany|2017|82,624,374
+Iran|2017|84,505,077
+Turkey|2017|82,089,827
+D.R. Congo|2017|84,283,273
+Thailand|2017|70,898,203
+United Kingdom|2017|66,064,805
+France|2017|64,144,087
+Italy|2017|60,004,032
+South Africa|2017|56,641,210
+Tanzania|2017|56,267,032
+Myanmar|2017|52,288,341
+Republic of Korea|2017|51,511,639
+Colombia|2017|48,351,671
+Kenya|2017|48,948,137
+Spain|2017|46,584,170
+Ukraine|2017|44,657,257
+Argentina|2017|44,054,616
+Algeria|2017|41,136,546
+Poland|2017|38,532,812
+Sudan|2017|40,679,828
+Iraq|2017|39,621,162
+Uganda|2017|40,127,085
+Canada|2017|36,554,348
+Morocco|2017|35,528,115
+Afghanistan|2017|35,643,418
+Saudi Arabia|2017|34,193,122
+Malaysia|2017|31,975,806
+Uzbekistan|2017|31,945,682
+Peru|2017|31,605,487
+Venezuela|2017|30,563,434
+Ghana|2017|30,222,262
+Yemen|2017|30,034,389
+Angola|2017|30,208,628
+Nepal|2017|28,183,426
+Mozambique|2017|28,569,441
+Dem. People's Republic of Korea|2017|25,516,322
+Madagascar|2017|26,169,542
+Australia|2017|24,590,334
+Côte d'Ivoire|2017|24,848,016
+Taiwan|2017|23,665,024
+Cameroon|2017|24,393,182
+Sri Lanka|2017|21,506,813
+Niger|2017|21,737,922
+Romania|2017|19,698,853
+Syrian Arab Republic|2017|18,983,373
+Burkina Faso|2017|19,835,859
+Mali|2017|19,311,355
+Chile|2017|18,368,577
+Kazakhstan|2017|18,314,814
+Netherlands|2017|17,207,198
+Malawi|2017|17,881,167
+Zambia|2017|17,298,054
+Ecuador|2017|16,696,944
+Guatemala|2017|16,578,723
+Cambodia|2017|15,830,689
+Senegal|2017|15,157,793
+Zimbabwe|2017|14,751,101
+Chad|2017|15,085,884
+Somalia|2017|14,864,221
+Rwanda|2017|12,230,339
+Guinea|2017|12,240,789
+Tunisia|2017|11,811,443
+Cuba|2017|11,336,405
+Belgium|2017|11,384,490
+South Sudan|2017|10,658,226
+Bolivia|2017|11,435,534
+Benin|2017|11,596,779
+Greece|2017|10,692,229
+Burundi|2017|11,155,593
+Haiti|2017|10,863,544
+Czech Republic|2017|10,531,305
+Dominican Republic|2017|10,647,244
+Portugal|2017|10,307,530
+Azerbaijan|2017|10,071,567
+Sweden|2017|10,058,190
+Hungary|2017|9,788,941
+Belarus|2017|9,707,876
+Jordan|2017|10,215,382
+Honduras|2017|9,626,842
+United Arab Emirates|2017|9,068,296
+Papua New Guinea|2017|9,114,796
+Austria|2017|8,797,496
+Tajikistan|2017|8,925,525
+Switzerland|2017|8,451,687
+Israel|2017|8,309,257
+Serbia|2017|7,464,880
+Togo|2017|7,852,795
+China, Hong Kong SAR|2017|7,461,519
+Sierra Leone|2017|7,677,566
+Bulgaria|2017|7,182,429
+Laos|2017|6,997,917
+Lebanon|2017|6,109,252
+Nicaragua|2017|6,480,532
+El Salvador|2017|6,266,655
+Libya|2017|6,378,262
+Paraguay|2017|6,355,404
+Kyrgyzstan|2017|6,121,261
+Turkmenistan|2017|5,968,383
+Denmark|2017|5,737,285
+Singapore|2017|5,764,487
+Finland|2017|5,508,140
+Slovakia|2017|5,439,417
+Norway|2017|5,277,393
+Congo|2017|5,312,340
+Costa Rica|2017|4,993,842
+Central African Republic|2017|4,996,741
+Ireland|2017|4,771,854
+Liberia|2017|4,796,631
+New Zealand|2017|4,746,252
+State of Palestine|2017|4,700,947
+Croatia|2017|4,192,467
+Oman|2017|4,541,854
+Panama|2017|4,096,063
+Mauritania|2017|4,160,015
+Kuwait|2017|4,124,905
+Georgia|2017|3,771,900
+Bosnia and Herzegovina|2017|3,440,027
+Puerto Rico|2017|3,366,408
+Uruguay|2017|3,422,201
+Eritrea|2017|3,396,933
+Republic of Moldova|2017|3,180,506
+Mongolia|2017|3,096,030
+Lithuania|2017|2,904,450
+Albania|2017|2,879,355
+Armenia|2017|2,851,923
+Jamaica|2017|2,808,376
+Qatar|2017|2,711,755
+Botswana|2017|2,401,840
+Namibia|2017|2,364,534
+Gambia|2017|2,381,182
+Lesotho|2017|2,170,617
+TFYR Macedonia|2017|2,111,979
+Slovenia|2017|2,098,392
+Gabon|2017|2,140,216
+Latvia|2017|1,954,863
+Guinea-Bissau|2017|1,879,827
+Trinidad and Tobago|2017|1,478,607
+Bahrain|2017|1,456,834
+Equatorial Guinea|2017|1,450,694
+Estonia|2017|1,317,549
+Mauritius|2017|1,294,741
+Timor-Leste|2017|1,243,235
+Cyprus|2017|1,208,523
+Swaziland|2017|1,151,391
+Djibouti|2017|1,040,233
+Réunion|2017|932,739
+Fiji|2017|919,019
+Guyana|2017|763,252
+Bhutan|2017|756,122
+Comoros|2017|761,664
+Montenegro|2017|632,438
+China, Macao SAR|2017|638,609
+Solomon Islands|2017|643,634
+Suriname|2017|587,560
+Luxembourg|2017|596,283
+Cabo Verde|2017|564,954
+Western Sahara|2017|518,859
+Malta|2017|479,497
+Maldives|2017|472,442
+Brunei Darussalam|2017|430,277
+Guadeloupe|2017|397,022
+Bahamas|2017|399,020
+Martinique|2017|377,452
+Belize|2017|374,694
+Iceland|2017|343,632
+French Polynesia|2017|295,451
+New Caledonia|2017|284,349
+Barbados|2017|279,187
+Vanuatu|2017|290,239
+French Guiana|2017|269,353
+Mayotte|2017|271,565
+Samoa|2017|207,630
+Sao Tome and Principe|2017|208,037
+Saint Lucia|2017|177,164
+Curaçao|2017|171,525
+Guam|2017|168,606
+Grenada|2017|120,921
+Kiribati|2017|120,363
+Micronesia (Fed. States of)|2017|110,431
+Saint Vincent and the Grenadines|2017|105,549
+Tonga|2017|105,415
+Aruba|2017|105,439
+United States Virgin Islands|2017|101,851
+Seychelles|2017|101,811
+Antigua and Barbuda|2017|91,119
+Monaco|2017|37,045
+China|2018|1,417,069,469
+India|2018|1,369,003,307
+United States of America|2018|332,140,038
+Indonesia|2018|267,066,843
+Pakistan|2018|219,731,480
+Brazil|2018|210,166,593
+Nigeria|2018|198,387,624
+Bangladesh|2018|163,683,958
+Russian Federation|2018|145,652,293
+Japan|2018|126,255,866
+Mexico|2018|124,013,862
+Philippines|2018|108,568,836
+Ethiopia|2018|111,129,438
+Egypt|2018|103,740,766
+Viet Nam|2018|94,914,331
+Germany|2018|82,896,696
+Iran|2018|85,617,562
+Turkey|2018|82,809,305
+D.R. Congo|2018|87,087,355
+Thailand|2018|71,127,802
+United Kingdom|2018|66,432,994
+France|2018|64,277,808
+Italy|2018|59,877,426
+South Africa|2018|57,339,635
+Tanzania|2018|58,090,443
+Myanmar|2018|52,666,014
+Republic of Korea|2018|51,676,900
+Colombia|2018|49,276,962
+Kenya|2018|49,953,304
+Spain|2018|46,792,043
+Ukraine|2018|44,446,954
+Argentina|2018|44,413,596
+Algeria|2018|41,927,007
+Poland|2018|38,521,457
+Sudan|2018|41,999,059
+Iraq|2018|40,590,700
+Uganda|2018|41,515,395
+Canada|2018|37,035,254
+Morocco|2018|35,927,511
+Afghanistan|2018|36,686,784
+Saudi Arabia|2018|35,018,133
+Malaysia|2018|32,399,272
+Uzbekistan|2018|32,449,576
+Peru|2018|32,203,944
+Venezuela|2018|29,825,653
+Ghana|2018|30,870,641
+Yemen|2018|30,790,513
+Angola|2018|31,273,533
+Nepal|2018|28,506,712
+Mozambique|2018|29,423,879
+Dem. People's Republic of Korea|2018|25,638,150
+Madagascar|2018|26,846,541
+Australia|2018|24,979,230
+Côte d'Ivoire|2018|25,493,989
+Taiwan|2018|23,726,186
+Cameroon|2018|25,076,747
+Sri Lanka|2018|21,580,710
+Niger|2018|22,577,058
+Romania|2018|19,606,783
+Syrian Arab Republic|2018|19,333,463
+Burkina Faso|2018|20,392,723
+Mali|2018|19,934,298
+Chile|2018|18,701,451
+Kazakhstan|2018|18,538,099
+Netherlands|2018|17,286,043
+Malawi|2018|18,367,883
+Zambia|2018|17,835,893
+Ecuador|2018|17,015,672
+Guatemala|2018|16,850,176
+Cambodia|2018|16,025,239
+Senegal|2018|15,574,909
+Zimbabwe|2018|15,052,184
+Chad|2018|15,604,210
+Somalia|2018|15,411,094
+Rwanda|2018|12,531,808
+Guinea|2018|12,554,865
+Tunisia|2018|11,933,042
+Cuba|2018|11,328,244
+Belgium|2018|11,448,596
+South Sudan|2018|10,395,330
+Bolivia|2018|11,606,905
+Benin|2018|11,940,684
+Greece|2018|10,633,271
+Burundi|2018|11,493,473
+Haiti|2018|11,012,421
+Czech Republic|2018|10,534,593
+Dominican Republic|2018|10,765,531
+Portugal|2018|10,289,835
+Azerbaijan|2018|10,152,522
+Sweden|2018|10,162,298
+Hungary|2018|9,776,358
+Belarus|2018|9,695,574
+Jordan|2018|10,459,866
+Honduras|2018|9,792,850
+United Arab Emirates|2018|9,140,170
+Papua New Guinea|2018|9,329,227
+Austria|2018|8,840,513
+Tajikistan|2018|9,128,133
+Switzerland|2018|8,514,434
+Israel|2018|8,456,483
+Serbia|2018|7,433,818
+Togo|2018|8,046,679
+China, Hong Kong SAR|2018|7,481,555
+Sierra Leone|2018|7,861,281
+Bulgaria|2018|7,117,431
+Laos|2018|7,105,006
+Lebanon|2018|5,950,839
+Nicaragua|2018|6,572,233
+El Salvador|2018|6,276,343
+Libya|2018|6,477,793
+Paraguay|2018|6,443,328
+Kyrgyzstan|2018|6,223,495
+Turkmenistan|2018|6,065,066
+Denmark|2018|5,766,686
+Singapore|2018|5,814,537
+Finland|2018|5,515,461
+Slovakia|2018|5,446,746
+Norway|2018|5,312,320
+Congo|2018|5,441,062
+Costa Rica|2018|5,040,734
+Central African Republic|2018|5,094,780
+Ireland|2018|4,834,507
+Liberia|2018|4,889,391
+New Zealand|2018|4,838,526
+State of Palestine|2018|4,805,547
+Croatia|2018|4,160,485
+Oman|2018|4,601,157
+Panama|2018|4,165,255
+Mauritania|2018|4,270,712
+Kuwait|2018|4,317,186
+Georgia|2018|3,772,325
+Bosnia and Herzegovina|2018|3,400,129
+Puerto Rico|2018|3,319,269
+Uruguay|2018|3,427,042
+Eritrea|2018|3,445,375
+Republic of Moldova|2018|3,141,837
+Mongolia|2018|3,163,991
+Lithuania|2018|2,876,128
+Albania|2018|2,877,013
+Armenia|2018|2,836,557
+Jamaica|2018|2,811,835
+Qatar|2018|2,766,732
+Botswana|2018|2,451,409
+Namibia|2018|2,405,681
+Gambia|2018|2,444,916
+Lesotho|2018|2,198,017
+TFYR Macedonia|2018|2,113,491
+Slovenia|2018|2,105,924
+Gabon|2018|2,192,012
+Latvia|2018|1,935,631
+Guinea-Bissau|2018|1,924,955
+Trinidad and Tobago|2018|1,504,709
+Bahrain|2018|1,487,340
+Equatorial Guinea|2018|1,502,092
+Estonia|2018|1,322,148
+Mauritius|2018|1,295,382
+Timor-Leste|2018|1,261,846
+Cyprus|2018|1,218,831
+Swaziland|2018|1,160,428
+Djibouti|2018|1,057,198
+Réunion|2018|941,187
+Fiji|2018|918,996
+Guyana|2018|785,514
+Bhutan|2018|762,097
+Comoros|2018|776,314
+Montenegro|2018|631,455
+China, Macao SAR|2018|650,991
+Solomon Islands|2018|659,249
+Suriname|2018|593,715
+Luxembourg|2018|607,913
+Cabo Verde|2018|571,202
+Western Sahara|2018|532,004
+Malta|2018|491,586
+Maldives|2018|489,758
+Brunei Darussalam|2018|434,275
+Guadeloupe|2018|396,262
+Bahamas|2018|401,907
+Martinique|2018|374,841
+Belize|2018|382,066
+Iceland|2018|352,946
+French Polynesia|2018|297,606
+New Caledonia|2018|284,880
+Barbados|2018|279,689
+Vanuatu|2018|297,298
+French Guiana|2018|276,647
+Mayotte|2018|282,955
+Samoa|2018|209,701
+Sao Tome and Principe|2018|211,344
+Saint Lucia|2018|177,888
+Curaçao|2018|184,722
+Guam|2018|168,678
+Grenada|2018|121,838
+Kiribati|2018|122,262
+Micronesia (Fed. States of)|2018|110,929
+Saint Vincent and the Grenadines|2018|105,281
+Tonga|2018|105,151
+Aruba|2018|105,962
+United States Virgin Islands|2018|101,365
+Seychelles|2018|103,101
+Antigua and Barbuda|2018|91,626
+Monaco|2018|37,029
+China|2019|1,421,864,031
+India|2019|1,383,112,051
+United States of America|2019|334,319,671
+Indonesia|2019|269,582,878
+Pakistan|2019|223,293,280
+Brazil|2019|211,782,878
+Nigeria|2019|203,304,492
+Bangladesh|2019|165,516,222
+Russian Federation|2019|145,742,287
+Japan|2019|125,791,677
+Mexico|2019|125,085,311
+Philippines|2019|110,380,805
+Ethiopia|2019|114,120,594
+Egypt|2019|105,618,671
+Viet Nam|2019|95,776,717
+Germany|2019|83,148,141
+Iran|2019|86,564,202
+Turkey|2019|83,481,684
+D.R. Congo|2019|89,906,891
+Thailand|2019|71,307,763
+United Kingdom|2019|66,778,659
+France|2019|64,399,759
+Italy|2019|59,727,932
+South Africa|2019|58,087,055
+Tanzania|2019|59,872,579
+Myanmar|2019|53,040,212
+Republic of Korea|2019|51,803,830
+Colombia|2019|50,187,407
+Kenya|2019|50,951,450
+Spain|2019|47,131,372
+Ukraine|2019|44,211,095
+Argentina|2019|44,745,520
+Algeria|2019|42,705,369
+Poland|2019|38,493,601
+Sudan|2019|43,232,093
+Iraq|2019|41,563,521
+Uganda|2019|42,949,080
+Canada|2019|37,522,585
+Morocco|2019|36,304,408
+Afghanistan|2019|37,769,499
+Saudi Arabia|2019|35,827,362
+Malaysia|2019|32,804,020
+Uzbekistan|2019|32,976,948
+Peru|2019|32,824,861
+Venezuela|2019|28,971,684
+Ghana|2019|31,522,290
+Yemen|2019|31,546,691
+Angola|2019|32,353,588
+Nepal|2019|28,832,496
+Mozambique|2019|30,285,595
+Dem. People's Republic of Korea|2019|25,755,441
+Madagascar|2019|27,533,134
+Australia|2019|25,357,170
+Côte d'Ivoire|2019|26,147,551
+Taiwan|2019|23,777,738
+Cameroon|2019|25,782,341
+Sri Lanka|2019|21,649,664
+Niger|2019|23,443,393
+Romania|2019|19,524,211
+Syrian Arab Republic|2019|20,098,252
+Burkina Faso|2019|20,951,639
+Mali|2019|20,567,424
+Chile|2019|19,039,486
+Kazakhstan|2019|18,754,258
+Netherlands|2019|17,363,262
+Malawi|2019|18,867,337
+Zambia|2019|18,380,477
+Ecuador|2019|17,343,741
+Guatemala|2019|17,106,338
+Cambodia|2019|16,207,746
+Senegal|2019|16,000,782
+Zimbabwe|2019|15,354,608
+Chad|2019|16,126,866
+Somalia|2019|15,981,301
+Rwanda|2019|12,835,028
+Guinea|2019|12,877,539
+Tunisia|2019|12,049,314
+Cuba|2019|11,316,697
+Belgium|2019|11,510,568
+South Sudan|2019|10,447,666
+Bolivia|2019|11,777,315
+Benin|2019|12,290,444
+Greece|2019|10,574,024
+Burundi|2019|11,874,838
+Haiti|2019|11,160,438
+Czech Republic|2019|10,536,871
+Dominican Republic|2019|10,881,883
+Portugal|2019|10,289,923
+Azerbaijan|2019|10,232,753
+Sweden|2019|10,267,922
+Hungary|2019|9,771,796
+Belarus|2019|9,673,971
+Jordan|2019|10,698,684
+Honduras|2019|9,958,829
+United Arab Emirates|2019|9,211,657
+Papua New Guinea|2019|9,542,486
+Austria|2019|8,879,940
+Tajikistan|2019|9,337,003
+Switzerland|2019|8,575,589
+Israel|2019|8,607,920
+Serbia|2019|7,401,056
+Togo|2019|8,243,095
+China, Hong Kong SAR|2019|7,496,122
+Sierra Leone|2019|8,046,829
+Bulgaria|2019|7,052,532
+Laos|2019|7,212,053
+Lebanon|2019|5,781,907
+Nicaragua|2019|6,663,924
+El Salvador|2019|6,280,217
+Libya|2019|6,569,088
+Paraguay|2019|6,530,027
+Kyrgyzstan|2019|6,323,643
+Turkmenistan|2019|6,158,420
+Denmark|2019|5,795,878
+Singapore|2019|5,866,405
+Finland|2019|5,521,537
+Slovakia|2019|5,453,924
+Norway|2019|5,348,279
+Congo|2019|5,570,733
+Costa Rica|2019|5,084,532
+Central African Republic|2019|5,209,325
+Ireland|2019|4,896,019
+Liberia|2019|4,985,289
+New Zealand|2019|4,959,034
+State of Palestine|2019|4,909,775
+Croatia|2019|4,129,752
+Oman|2019|4,602,768
+Panama|2019|4,232,532
+Mauritania|2019|4,383,849
+Kuwait|2019|4,441,100
+Georgia|2019|3,770,811
+Bosnia and Herzegovina|2019|3,360,712
+Puerto Rico|2019|3,292,887
+Uruguay|2019|3,428,409
+Eritrea|2019|3,498,818
+Republic of Moldova|2019|3,109,491
+Mongolia|2019|3,232,430
+Lithuania|2019|2,849,083
+Albania|2019|2,873,884
+Armenia|2019|2,820,602
+Jamaica|2019|2,813,773
+Qatar|2019|2,807,235
+Botswana|2019|2,499,702
+Namibia|2019|2,446,645
+Gambia|2019|2,508,884
+Lesotho|2019|2,225,702
+TFYR Macedonia|2019|2,114,176
+Slovenia|2019|2,112,902
+Gabon|2019|2,242,786
+Latvia|2019|1,916,556
+Guinea-Bissau|2019|1,970,457
+Trinidad and Tobago|2019|1,519,955
+Bahrain|2019|1,494,189
+Equatorial Guinea|2019|1,553,031
+Estonia|2019|1,327,039
+Mauritius|2019|1,296,279
+Timor-Leste|2019|1,280,438
+Cyprus|2019|1,228,837
+Swaziland|2019|1,169,613
+Djibouti|2019|1,073,994
+Réunion|2019|949,420
+Fiji|2019|918,465
+Guyana|2019|798,753
+Bhutan|2019|767,459
+Comoros|2019|790,986
+Montenegro|2019|630,396
+China, Macao SAR|2019|663,653
+Solomon Islands|2019|674,993
+Suriname|2019|600,301
+Luxembourg|2019|619,973
+Cabo Verde|2019|577,031
+Western Sahara|2019|544,876
+Malta|2019|503,635
+Maldives|2019|504,508
+Brunei Darussalam|2019|438,049
+Guadeloupe|2019|395,485
+Bahamas|2019|404,557
+Martinique|2019|372,245
+Belize|2019|389,095
+Iceland|2019|360,775
+French Polynesia|2019|299,718
+New Caledonia|2019|285,374
+Barbados|2019|280,180
+Vanuatu|2019|304,405
+French Guiana|2019|284,073
+Mayotte|2019|294,489
+Samoa|2019|211,906
+Sao Tome and Principe|2019|214,599
+Saint Lucia|2019|178,584
+Curaçao|2019|193,107
+Guam|2019|168,624
+Grenada|2019|122,724
+Kiribati|2019|124,241
+Micronesia (Fed. States of)|2019|111,379
+Saint Vincent and the Grenadines|2019|104,924
+Tonga|2019|104,951
+Aruba|2019|106,443
+United States Virgin Islands|2019|100,827
+Seychelles|2019|104,373
+Antigua and Barbuda|2019|92,117
+Monaco|2019|37,034
+China|2020|1,424,929,781
+India|2020|1,396,387,127
+United States of America|2020|335,942,004
+Indonesia|2020|271,857,971
+Pakistan|2020|227,196,741
+Brazil|2020|213,196,304
+Nigeria|2020|208,327,405
+Bangladesh|2020|167,420,951
+Russian Federation|2020|145,617,329
+Japan|2020|125,244,761
+Mexico|2020|125,998,302
+Philippines|2020|112,190,978
+Ethiopia|2020|117,190,911
+Egypt|2020|107,465,134
+Viet Nam|2020|96,648,685
+Germany|2020|83,328,988
+Iran|2020|87,290,193
+Turkey|2020|84,135,428
+D.R. Congo|2020|92,853,165
+Thailand|2020|71,475,665
+United Kingdom|2020|67,059,474
+France|2020|64,480,053
+Italy|2020|59,500,579
+South Africa|2020|58,801,927
+Tanzania|2020|61,704,518
+Myanmar|2020|53,423,198
+Republic of Korea|2020|51,844,691
+Colombia|2020|50,930,663
+Kenya|2020|51,985,780
+Spain|2020|47,363,807
+Ukraine|2020|43,909,667
+Argentina|2020|45,036,032
+Algeria|2020|43,451,666
+Poland|2020|38,428,367
+Sudan|2020|44,440,486
+Iraq|2020|42,556,984
+Uganda|2020|44,404,611
+Canada|2020|37,888,705
+Morocco|2020|36,688,772
+Afghanistan|2020|38,972,231
+Saudi Arabia|2020|35,997,107
+Malaysia|2020|33,199,993
+Uzbekistan|2020|33,526,657
+Peru|2020|33,304,756
+Venezuela|2020|28,490,454
+Ghana|2020|32,180,402
+Yemen|2020|32,284,046
+Angola|2020|33,428,486
+Nepal|2020|29,348,628
+Mozambique|2020|31,178,239
+Dem. People's Republic of Korea|2020|25,867,467
+Madagascar|2020|28,225,177
+Australia|2020|25,670,051
+Côte d'Ivoire|2020|26,811,791
+Taiwan|2020|23,821,465
+Cameroon|2020|26,491,087
+Sri Lanka|2020|21,715,080
+Niger|2020|24,333,639
+Romania|2020|19,442,039
+Syrian Arab Republic|2020|20,772,596
+Burkina Faso|2020|21,522,626
+Mali|2020|21,224,040
+Chile|2020|19,300,315
+Kazakhstan|2020|18,979,243
+Netherlands|2020|17,434,558
+Malawi|2020|19,377,062
+Zambia|2020|18,927,715
+Ecuador|2020|17,588,596
+Guatemala|2020|17,362,719
+Cambodia|2020|16,396,861
+Senegal|2020|16,436,120
+Zimbabwe|2020|15,669,666
+Chad|2020|16,644,702
+Somalia|2020|16,537,016
+Rwanda|2020|13,146,362
+Guinea|2020|13,205,153
+Tunisia|2020|12,161,723
+Cuba|2020|11,300,698
+Belgium|2020|11,561,717
+South Sudan|2020|10,606,227
+Bolivia|2020|11,936,162
+Benin|2020|12,643,123
+Greece|2020|10,512,232
+Burundi|2020|12,220,227
+Haiti|2020|11,306,802
+Czech Republic|2020|10,530,954
+Dominican Republic|2020|10,999,664
+Portugal|2020|10,298,192
+Azerbaijan|2020|10,284,951
+Sweden|2020|10,368,970
+Hungary|2020|9,750,573
+Belarus|2020|9,633,741
+Jordan|2020|10,928,721
+Honduras|2020|10,121,763
+United Arab Emirates|2020|9,287,289
+Papua New Guinea|2020|9,749,640
+Austria|2020|8,907,777
+Tajikistan|2020|9,543,207
+Switzerland|2020|8,638,613
+Israel|2020|8,757,490
+Serbia|2020|7,358,005
+Togo|2020|8,442,580
+China, Hong Kong SAR|2020|7,500,958
+Sierra Leone|2020|8,233,971
+Bulgaria|2020|6,979,175
+Laos|2020|7,319,399
+Lebanon|2020|5,662,924
+Nicaragua|2020|6,755,896
+El Salvador|2020|6,292,731
+Libya|2020|6,653,942
+Paraguay|2020|6,618,695
+Kyrgyzstan|2020|6,424,874
+Turkmenistan|2020|6,250,438
+Denmark|2020|5,825,641
+Singapore|2020|5,909,870
+Finland|2020|5,529,468
+Slovakia|2020|5,456,681
+Norway|2020|5,379,839
+Congo|2020|5,702,174
+Costa Rica|2020|5,123,105
+Central African Republic|2020|5,343,020
+Ireland|2020|4,946,119
+Liberia|2020|5,087,585
+New Zealand|2020|5,061,134
+State of Palestine|2020|5,019,402
+Croatia|2020|4,096,870
+Oman|2020|4,543,399
+Panama|2020|4,294,397
+Mauritania|2020|4,498,604
+Kuwait|2020|4,360,445
+Georgia|2020|3,765,912
+Bosnia and Herzegovina|2020|3,318,408
+Puerto Rico|2020|3,271,565
+Uruguay|2020|3,429,087
+Eritrea|2020|3,555,868
+Republic of Moldova|2020|3,084,847
+Mongolia|2020|3,294,335
+Lithuania|2020|2,820,267
+Albania|2020|2,866,849
+Armenia|2020|2,805,609
+Jamaica|2020|2,820,436
+Qatar|2020|2,760,385
+Botswana|2020|2,546,402
+Namibia|2020|2,489,098
+Gambia|2020|2,573,995
+Lesotho|2020|2,254,100
+TFYR Macedonia|2020|2,111,072
+Slovenia|2020|2,117,641
+Gabon|2020|2,292,573
+Latvia|2020|1,897,052
+Guinea-Bissau|2020|2,015,828
+Trinidad and Tobago|2020|1,518,147
+Bahrain|2020|1,477,469
+Equatorial Guinea|2020|1,596,049
+Estonia|2020|1,329,444
+Mauritius|2020|1,297,828
+Timor-Leste|2020|1,299,995
+Cyprus|2020|1,237,537
+Swaziland|2020|1,180,655
+Djibouti|2020|1,090,156
+Réunion|2020|957,823
+Fiji|2020|920,422
+Guyana|2020|797,202
+Bhutan|2020|772,506
+Comoros|2020|806,166
+Montenegro|2020|629,048
+China, Macao SAR|2020|676,283
+Solomon Islands|2020|691,191
+Suriname|2020|607,065
+Luxembourg|2020|630,400
+Cabo Verde|2020|582,640
+Western Sahara|2020|556,048
+Malta|2020|515,358
+Maldives|2020|514,438
+Brunei Darussalam|2020|441,725
+Guadeloupe|2020|395,642
+Bahamas|2020|406,472
+Martinique|2020|370,391
+Belize|2020|394,921
+Iceland|2020|366,669
+French Polynesia|2020|301,920
+New Caledonia|2020|286,403
+Barbados|2020|280,693
+Vanuatu|2020|311,685
+French Guiana|2020|290,970
+Mayotte|2020|305,587
+Samoa|2020|214,930
+Sao Tome and Principe|2020|218,641
+Saint Lucia|2020|179,237
+Curaçao|2020|189,289
+Guam|2020|169,231
+Grenada|2020|123,663
+Kiribati|2020|126,464
+Micronesia (Fed. States of)|2020|112,107
+Saint Vincent and the Grenadines|2020|104,633
+Tonga|2020|105,254
+Aruba|2020|106,585
+United States Virgin Islands|2020|100,443
+Seychelles|2020|105,530
+Antigua and Barbuda|2020|92,664
+Monaco|2020|36,922
+China|2021|1,425,893,465
+India|2021|1,407,563,842
+United States of America|2021|336,997,624
+Indonesia|2021|273,753,191
+Pakistan|2021|231,402,117
+Brazil|2021|214,326,223
+Nigeria|2021|213,401,323
+Bangladesh|2021|169,356,251
+Russian Federation|2021|145,102,755
+Japan|2021|124,612,531
+Mexico|2021|126,705,138
+Philippines|2021|113,880,328
+Ethiopia|2021|120,283,026
+Egypt|2021|109,262,178
+Viet Nam|2021|97,468,029
+Germany|2021|83,408,555
+Iran|2021|87,923,433
+Turkey|2021|84,775,404
+D.R. Congo|2021|95,894,119
+Thailand|2021|71,601,103
+United Kingdom|2021|67,281,040
+France|2021|64,531,444
+Italy|2021|59,240,330
+South Africa|2021|59,392,255
+Tanzania|2021|63,588,334
+Myanmar|2021|53,798,085
+Republic of Korea|2021|51,830,139
+Colombia|2021|51,516,562
+Kenya|2021|53,005,614
+Spain|2021|47,486,935
+Ukraine|2021|43,531,422
+Argentina|2021|45,276,780
+Algeria|2021|44,177,969
+Poland|2021|38,307,726
+Sudan|2021|45,657,202
+Iraq|2021|43,533,593
+Uganda|2021|45,853,778
+Canada|2021|38,155,012
+Morocco|2021|37,076,585
+Afghanistan|2021|40,099,462
+Saudi Arabia|2021|35,950,396
+Malaysia|2021|33,573,874
+Uzbekistan|2021|34,081,449
+Peru|2021|33,715,472
+Venezuela|2021|28,199,867
+Ghana|2021|32,833,032
+Yemen|2021|32,981,642
+Angola|2021|34,503,774
+Nepal|2021|30,034,990
+Mozambique|2021|32,077,072
+Dem. People's Republic of Korea|2021|25,971,909
+Madagascar|2021|28,915,653
+Australia|2021|25,921,089
+Côte d'Ivoire|2021|27,478,249
+Taiwan|2021|23,859,912
+Cameroon|2021|27,198,628
+Sri Lanka|2021|21,773,441
+Niger|2021|25,252,722
+Romania|2021|19,328,560
+Syrian Arab Republic|2021|21,324,367
+Burkina Faso|2021|22,100,684
+Mali|2021|21,904,983
+Chile|2021|19,493,185
+Kazakhstan|2021|19,196,466
+Netherlands|2021|17,501,696
+Malawi|2021|19,889,742
+Zambia|2021|19,473,125
+Ecuador|2021|17,797,737
+Guatemala|2021|17,608,484
+Cambodia|2021|16,589,024
+Senegal|2021|16,876,720
+Zimbabwe|2021|15,993,524
+Chad|2021|17,179,740
+Somalia|2021|17,065,581
+Rwanda|2021|13,461,888
+Guinea|2021|13,531,906
+Tunisia|2021|12,262,946
+Cuba|2021|11,256,373
+Belgium|2021|11,611,420
+South Sudan|2021|10,748,273
+Bolivia|2021|12,079,472
+Benin|2021|12,996,895
+Greece|2021|10,445,365
+Burundi|2021|12,551,213
+Haiti|2021|11,447,569
+Czech Republic|2021|10,510,751
+Dominican Republic|2021|11,117,874
+Portugal|2021|10,290,103
+Azerbaijan|2021|10,312,992
+Sweden|2021|10,467,097
+Hungary|2021|9,709,786
+Belarus|2021|9,578,168
+Jordan|2021|11,148,278
+Honduras|2021|10,278,346
+United Arab Emirates|2021|9,365,145
+Papua New Guinea|2021|9,949,437
+Austria|2021|8,922,082
+Tajikistan|2021|9,750,064
+Switzerland|2021|8,691,407
+Israel|2021|8,900,059
+Serbia|2021|7,296,769
+Togo|2021|8,644,829
+China, Hong Kong SAR|2021|7,494,579
+Sierra Leone|2021|8,420,641
+Bulgaria|2021|6,885,868
+Laos|2021|7,425,058
+Lebanon|2021|5,592,631
+Nicaragua|2021|6,850,540
+El Salvador|2021|6,314,168
+Libya|2021|6,735,277
+Paraguay|2021|6,703,799
+Kyrgyzstan|2021|6,527,744
+Turkmenistan|2021|6,341,855
+Denmark|2021|5,854,241
+Singapore|2021|5,941,061
+Finland|2021|5,535,992
+Slovakia|2021|5,447,622
+Norway|2021|5,403,021
+Congo|2021|5,835,806
+Costa Rica|2021|5,153,957
+Central African Republic|2021|5,457,155
+Ireland|2021|4,986,526
+Liberia|2021|5,193,416
+New Zealand|2021|5,129,728
+State of Palestine|2021|5,133,392
+Croatia|2021|4,060,136
+Oman|2021|4,520,471
+Panama|2021|4,351,267
+Mauritania|2021|4,614,974
+Kuwait|2021|4,250,114
+Georgia|2021|3,757,980
+Bosnia and Herzegovina|2021|3,270,943
+Puerto Rico|2021|3,256,028
+Uruguay|2021|3,426,260
+Eritrea|2021|3,620,312
+Republic of Moldova|2021|3,061,507
+Mongolia|2021|3,347,783
+Lithuania|2021|2,786,651
+Albania|2021|2,854,710
+Armenia|2021|2,790,974
+Jamaica|2021|2,827,695
+Qatar|2021|2,688,235
+Botswana|2021|2,588,423
+Namibia|2021|2,530,151
+Gambia|2021|2,639,916
+Lesotho|2021|2,281,455
+TFYR Macedonia|2021|2,103,330
+Slovenia|2021|2,119,410
+Gabon|2021|2,341,179
+Latvia|2021|1,873,919
+Guinea-Bissau|2021|2,060,721
+Trinidad and Tobago|2021|1,525,663
+Bahrain|2021|1,463,266
+Equatorial Guinea|2021|1,634,466
+Estonia|2021|1,328,701
+Mauritius|2021|1,298,915
+Timor-Leste|2021|1,320,942
+Cyprus|2021|1,244,188
+Swaziland|2021|1,192,271
+Djibouti|2021|1,105,558
+Réunion|2021|966,129
+Fiji|2021|924,610
+Guyana|2021|804,567
+Bhutan|2021|777,487
+Comoros|2021|821,626
+Montenegro|2021|627,859
+China, Macao SAR|2021|686,607
+Solomon Islands|2021|707,851
+Suriname|2021|612,985
+Luxembourg|2021|639,321
+Cabo Verde|2021|587,925
+Western Sahara|2021|565,581
+Malta|2021|526,748
+Maldives|2021|521,458
+Brunei Darussalam|2021|445,373
+Guadeloupe|2021|396,051
+Bahamas|2021|407,906
+Martinique|2021|368,796
+Belize|2021|400,031
+Iceland|2021|370,335
+French Polynesia|2021|304,032
+New Caledonia|2021|287,800
+Barbados|2021|281,200
+Vanuatu|2021|319,137
+French Guiana|2021|297,449
+Mayotte|2021|316,014
+Samoa|2021|218,764
+Sao Tome and Principe|2021|223,108
+Saint Lucia|2021|179,652
+Curaçao|2021|190,338
+Guam|2021|170,534
+Grenada|2021|124,610
+Kiribati|2021|128,874
+Micronesia (Fed. States of)|2021|113,131
+Saint Vincent and the Grenadines|2021|104,332
+Tonga|2021|106,017
+Aruba|2021|106,537
+United States Virgin Islands|2021|100,091
+Seychelles|2021|106,471
+Antigua and Barbuda|2021|93,220
+Monaco|2021|36,686
+China|2022|1,425,887,337
+India|2022|1,417,173,173
+United States of America|2022|338,289,857
+Indonesia|2022|275,501,339
+Pakistan|2022|235,824,863
+Brazil|2022|215,313,498
+Nigeria|2022|218,541,212
+Bangladesh|2022|171,186,373
+Russian Federation|2022|144,713,314
+Japan|2022|123,951,692
+Mexico|2022|127,504,126
+Philippines|2022|115,559,009
+Ethiopia|2022|123,379,925
+Egypt|2022|110,990,103
+Viet Nam|2022|98,186,856
+Germany|2022|83,369,843
+Iran|2022|88,550,570
+Turkey|2022|85,341,241
+D.R. Congo|2022|99,010,212
+Thailand|2022|71,697,030
+United Kingdom|2022|67,508,936
+France|2022|64,626,628
+Italy|2022|59,037,474
+South Africa|2022|59,893,886
+Tanzania|2022|65,497,748
+Myanmar|2022|54,179,306
+Republic of Korea|2022|51,815,810
+Colombia|2022|51,874,024
+Kenya|2022|54,027,487
+Spain|2022|47,558,630
+Ukraine|2022|39,701,739
+Argentina|2022|45,510,318
+Algeria|2022|44,903,225
+Poland|2022|39,857,146
+Sudan|2022|46,874,204
+Iraq|2022|44,496,122
+Uganda|2022|47,249,585
+Canada|2022|38,454,327
+Morocco|2022|37,457,971
+Afghanistan|2022|41,128,771
+Saudi Arabia|2022|36,408,820
+Malaysia|2022|33,938,222
+Uzbekistan|2022|34,627,653
+Peru|2022|34,049,589
+Venezuela|2022|28,301,696
+Ghana|2022|33,475,871
+Yemen|2022|33,696,614
+Angola|2022|35,588,987
+Nepal|2022|30,547,580
+Mozambique|2022|32,969,519
+Dem. People's Republic of Korea|2022|26,069,417
+Madagascar|2022|29,611,714
+Australia|2022|26,177,414
+Côte d'Ivoire|2022|28,160,543
+Taiwan|2022|23,893,395
+Cameroon|2022|27,914,537
+Sri Lanka|2022|21,832,143
+Niger|2022|26,207,977
+Romania|2022|19,659,267
+Syrian Arab Republic|2022|22,125,249
+Burkina Faso|2022|22,673,762
+Mali|2022|22,593,591
+Chile|2022|19,603,733
+Kazakhstan|2022|19,397,998
+Netherlands|2022|17,564,014
+Malawi|2022|20,405,317
+Zambia|2022|20,017,675
+Ecuador|2022|18,001,000
+Guatemala|2022|17,843,908
+Cambodia|2022|16,767,843
+Senegal|2022|17,316,449
+Zimbabwe|2022|16,320,537
+Chad|2022|17,723,315
+Somalia|2022|17,597,511
+Rwanda|2022|13,776,698
+Guinea|2022|13,859,341
+Tunisia|2022|12,356,117
+Cuba|2022|11,212,191
+Belgium|2022|11,655,930
+South Sudan|2022|10,913,164
+Bolivia|2022|12,224,110
+Benin|2022|13,352,864
+Greece|2022|10,384,971
+Burundi|2022|12,889,577
+Haiti|2022|11,584,996
+Czech Republic|2022|10,493,986
+Dominican Republic|2022|11,228,821
+Portugal|2022|10,270,865
+Azerbaijan|2022|10,358,074
+Sweden|2022|10,549,347
+Hungary|2022|9,967,308
+Belarus|2022|9,534,955
+Jordan|2022|11,285,869
+Honduras|2022|10,432,860
+United Arab Emirates|2022|9,441,129
+Papua New Guinea|2022|10,142,619
+Austria|2022|8,939,617
+Tajikistan|2022|9,952,787
+Switzerland|2022|8,740,472
+Israel|2022|9,038,309
+Serbia|2022|7,221,366
+Togo|2022|8,848,699
+China, Hong Kong SAR|2022|7,488,865
+Sierra Leone|2022|8,605,718
+Bulgaria|2022|6,781,953
+Laos|2022|7,529,475
+Lebanon|2022|5,489,740
+Nicaragua|2022|6,948,392
+El Salvador|2022|6,336,392
+Libya|2022|6,812,341
+Paraguay|2022|6,780,744
+Kyrgyzstan|2022|6,630,623
+Turkmenistan|2022|6,430,771
+Denmark|2022|5,882,262
+Singapore|2022|5,975,689
+Finland|2022|5,540,746
+Slovakia|2022|5,643,453
+Norway|2022|5,434,319
+Congo|2022|5,970,424
+Costa Rica|2022|5,180,829
+Central African Republic|2022|5,579,144
+Ireland|2022|5,023,109
+Liberia|2022|5,302,681
+New Zealand|2022|5,185,289
+State of Palestine|2022|5,250,072
+Croatia|2022|4,030,358
+Oman|2022|4,576,298
+Panama|2022|4,408,581
+Mauritania|2022|4,736,139
+Kuwait|2022|4,268,873
+Georgia|2022|3,744,386
+Bosnia and Herzegovina|2022|3,233,527
+Puerto Rico|2022|3,252,407
+Uruguay|2022|3,422,794
+Eritrea|2022|3,684,032
+Republic of Moldova|2022|3,272,996
+Mongolia|2022|3,398,366
+Lithuania|2022|2,750,055
+Albania|2022|2,842,321
+Armenia|2022|2,780,469
+Jamaica|2022|2,827,377
+Qatar|2022|2,695,122
+Botswana|2022|2,630,296
+Namibia|2022|2,567,013
+Gambia|2022|2,705,992
+Lesotho|2022|2,305,826
+TFYR Macedonia|2022|2,093,599
+Slovenia|2022|2,119,844
+Gabon|2022|2,388,993
+Latvia|2022|1,850,651
+Guinea-Bissau|2022|2,105,566
+Trinidad and Tobago|2022|1,531,045
+Bahrain|2022|1,472,233
+Equatorial Guinea|2022|1,674,908
+Estonia|2022|1,326,062
+Mauritius|2022|1,299,469
+Timor-Leste|2022|1,341,296
+Cyprus|2022|1,251,489
+Swaziland|2022|1,201,671
+Djibouti|2022|1,120,849
+Réunion|2022|974,052
+Fiji|2022|929,766
+Guyana|2022|808,726
+Bhutan|2022|782,455
+Comoros|2022|836,774
+Montenegro|2022|627,083
+China, Macao SAR|2022|695,169
+Solomon Islands|2022|724,273
+Suriname|2022|618,041
+Luxembourg|2022|647,599
+Cabo Verde|2022|593,150
+Western Sahara|2022|575,986
+Malta|2022|533,286
+Maldives|2022|523,787
+Brunei Darussalam|2022|449,002
+Guadeloupe|2022|395,753
+Bahamas|2022|409,984
+Martinique|2022|367,507
+Belize|2022|405,273
+Iceland|2022|372,899
+French Polynesia|2022|306,279
+New Caledonia|2022|289,951
+Barbados|2022|281,635
+Vanuatu|2022|326,741
+French Guiana|2022|304,557
+Mayotte|2022|326,101
+Samoa|2022|222,382
+Sao Tome and Principe|2022|227,380
+Saint Lucia|2022|179,858
+Curaçao|2022|191,164
+Guam|2022|171,775
+Grenada|2022|125,438
+Kiribati|2022|131,232
+Micronesia (Fed. States of)|2022|114,164
+Saint Vincent and the Grenadines|2022|103,948
+Tonga|2022|106,858
+Aruba|2022|106,445
+United States Virgin Islands|2022|99,465
+Seychelles|2022|107,119
+Antigua and Barbuda|2022|93,763
+Monaco|2022|36,469
