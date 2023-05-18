@@ -25,11 +25,11 @@ Después de la extracción de datos y su posterior unificación, obtuve un conju
 + incomeValue: Valor de ingresos.
 + population: Población del país.
 
-A continuación, apliqué el proceso de Extracción, Transformación y Carga (*ETL*) utilizando **SQL**garantizando la calidad y consistencia de los datos. Una vez que los datos estaban limpios y listos para su análisis, desarrollé un modelo de machine learning para realizar predicciones del valor de ingresos (incomeValue) para cada país.
+A continuación, apliqué el proceso de Extracción, Transformación y Carga (*ETL*) utilizando **SQL** garantizando la calidad y consistencia de los datos. Una vez que los datos estaban limpios y listos para su análisis, desarrollé un modelo de machine learning para realizar predicciones del valor de ingresos (incomeValue) para cada país.
 
-Finalmente, presenté el análisis de manera interactiva en la web utilizando **Streamlit**, brindando una experiencia intuitiva para explorar los resultados obtenidos, al cuál pueden acceder en el siguiente enlace.
+Finalmente, presenté el análisis de manera interactiva en la web utilizando **Streamlit**, brindando una experiencia intuitiva para explorar los resultados obtenidos, al cuál pueden acceder en el siguiente enlace :
 
-(enlace)
+[Streamlit](https://matytrova-happiness-introduccin-5qxs4v.streamlit.app/)
 
 Este proyecto me permitió fortalecer mis habilidades en Ciencia de Datos, aplicar técnicas avanzadas de machine learning y desarrollar una comprensión profunda de los factores que influyen en la felicidad mundial. Estoy orgulloso del impacto logrado y del conocimiento adquirido a lo largo de este desafío.
 
