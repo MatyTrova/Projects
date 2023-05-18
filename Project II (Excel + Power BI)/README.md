@@ -3,7 +3,7 @@
                                             
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/telecomunicaciones%201.png"  height=300>
+<img src="https://github.com/MatyTrova/Projects/blob/main/Project%20II%20(Excel%20%2B%20Power%20BI)/imgs/breast_cancer.jpg"  height=300>
 </p>
 
 --- 
@@ -33,26 +33,26 @@ Esta experiencia nos permitió profundizar nuestros conocimientos y habilidades 
 A continuación se adjuntaran imágenes del respectivo dashboard :
 ---
 <p align="center">
-<img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/Portada.png"  alt="Breast">
+<img src="https://github.com/MatyTrova/Projects/blob/main/Project%20II%20(Excel%20%2B%20Power%20BI)/imgs/indice.png"  alt="Breast">
 </p>
 
 
 ---
 <p align="center">
-<img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/P%C3%A1gina%201.png"  alt="Breast">
+<img src="https://github.com/MatyTrova/Projects/blob/main/Project%20II%20(Excel%20%2B%20Power%20BI)/imgs/dashboard.png"  alt="Breast">
 </p>
 
 
 
 ---
 <p align="center">
-<img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/P%C3%A1gina%202.png"  alt="Breast">
+<img src="https://github.com/MatyTrova/Projects/blob/main/Project%20II%20(Excel%20%2B%20Power%20BI)/imgs/pag2.png"  alt="Breast">
 </p>
 
 
 ---
 <p align="center">
-<img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/P%C3%A1gina%203.png"  alt="Breast">
+<img src="https://github.com/MatyTrova/Projects/blob/main/Project%20II%20(Excel%20%2B%20Power%20BI)/imgs/pag3.png"  alt="Breast">
 </p>
 
 
