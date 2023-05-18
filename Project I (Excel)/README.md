@@ -3,7 +3,7 @@
                                             
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/telecomunicaciones%201.png"  height=300>
+<img src="https://github.com/MatyTrova/Projects/blob/main/Project%20I%20(Excel)/imgs/flujos%20migratorios.jpg"  height=300>
 </p>
 
 --- 
@@ -41,12 +41,12 @@ Estoy enormemente agradecido por todo lo que aprendí durante el desarrollo de e
 A continuación se adjuntaran imágenes del respectivo dashboard :
 ---
 <p align="center">
-<img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/Portada.png"  alt="Migratorias">
+<img src="https://github.com/MatyTrova/Projects/blob/main/Project%20I%20(Excel)/imgs/Dashboard%201.jpeg"  alt="Migratorias">
 </p>
 
 ---
 <p align="center">
-<img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/P%C3%A1gina%201.png"  alt="Migratorias">
+<img src="https://github.com/MatyTrova/Projects/blob/main/Project%20I%20(Excel)/imgs/Dashboard%202.jpeg"  alt="Migratorias">
 </p>
 
 
