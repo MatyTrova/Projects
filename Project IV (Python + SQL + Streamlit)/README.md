@@ -62,7 +62,7 @@ Este proyecto me permitió fortalecer mis habilidades en Ciencia de Datos, aplic
 A continuación se adjuntaran imágenes del respectivo dashboard :
 ---
 <p align="center">
-<img src="https://github.com/MatyTrova/Happiness/blob/main/imgs/Portada_streamlit.png"  alt="Happiness">
+<img src="https://github.com/MatyTrova/Happiness/blob/main/imgs/portada.png"  alt="Happiness">
 </p>
 
 
@@ -102,7 +102,6 @@ A continuación se adjuntaran imágenes del respectivo dashboard :
 <p align="center">
 <img src="https://github.com/MatyTrova/Happiness/blob/main/imgs/viz_3.png"  alt="Happiness">
 </p>
-
 
 
 
